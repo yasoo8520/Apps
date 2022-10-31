@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691233757859",
+    "project_id": "firbasetest-ec0b7",
+    "storage_bucket": "firbasetest-ec0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691233757859:android:1396456499ff1e91247d16",
+        "android_client_info": {
+          "package_name": "com.example.chatfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691233757859-0qpkqkcvseg9paeon4k4nk1stljkmma0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDES6razFIi1w9hrPSGutXGyycixEcLnG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691233757859-0qpkqkcvseg9paeon4k4nk1stljkmma0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
